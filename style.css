@@ -1,0 +1,27 @@
+body{ font-family:'Times New Roman', Times, serif;
+    background: color #f0f2f5;
+
+}
+
+.imge {
+width: 350px;
+height: 450px;
+margin-left: 15px;
+padding: 30px;
+
+}
+.card{width: 450px;
+    margin: 30px auto;
+    background: white;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 12px rgb(0, 0, 0,0, 15); 
+
+
+    
+}
+.name{
+    background-color: white;
+    border-radius: 12px;
+    
+}
